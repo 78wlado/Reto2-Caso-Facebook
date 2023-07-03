@@ -21,6 +21,7 @@ La tecnología de deep learning se utiliza en la generación de deepfakes para c
 
 # Busca información sobre los ataques adversarios contra redes neuronales.
 Estos ataques pueden tener implicaciones de seguridad y privacidad, y han sido objeto de una investigación considerable en el campo del aprendizaje automático. Aquí hay algunos conceptos clave relacionados con los ataques adversarios:
+
 ![image](https://github.com/78wlado/Reto2-Caso-Facebook/assets/136178520/b42427be-3eda-4782-8598-21b3f8155db0)
 
 # Codigo
